@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="container-lg card my-5 p-4">
   
-    <h1 className="display-5 text-center mt-4"> Jhonatan Molina</h1>
+    <h1 className="display-5 text-center mt-4"> Biblioteca</h1>
     <AdiEli />
     
     </div>

@@ -66,7 +66,7 @@ export const Libro = ({ agregarLibro, libros, eliminarLibro }) => {
             <option value="Disponible">Disponible</option>
           </select>
         </div>
-        <button type="submit" className="btn btn-primary">
+        <button type="submit" className="btn btn-success">
           Agregar Libro
         </button>
       </form>

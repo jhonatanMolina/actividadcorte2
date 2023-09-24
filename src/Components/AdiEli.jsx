@@ -16,7 +16,7 @@ const AdiEli = () => {
 
   return (
     <div className="container">
-      <h1>Gestión de Libros</h1>
+      <h1>Gestionar libros</h1>
       <Libro agregarLibro={agregarLibro} libros={libros} eliminarLibro={eliminarLibro} />
     </div>
     
