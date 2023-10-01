@@ -44,7 +44,7 @@ export const Libro = ({ agregarLibro, libros, eliminarLibro }) => {
         <div className="mb-3">
           <label htmlFor="fecha">Fecha de Publicación</label>
           <input
-            type="text"
+            type="date"
             className="form-control"
             id="fecha"
             value={fechaPublicacion}
